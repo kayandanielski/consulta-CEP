@@ -1,5 +1,0 @@
-CEP: 03059-001
-Rua: Rua Júlio de Castilhos
-Bairro: Belenzinho
-Cidade: São Paulo
-Estado: SP
